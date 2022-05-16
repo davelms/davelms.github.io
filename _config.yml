@@ -1,4 +1,6 @@
-theme: minima
+plugins:
+  - jekyll-remote-theme
+remote_theme: jekyll/minima
 title: Dave Sugden
 description: DevOps & Football. LUFC & Scarborough. Write tech, run @leedsmusicscene and @leedsgigguide.
 author:
@@ -9,7 +11,4 @@ minima:
     twitter: davelms
     github: davelms
     linkedin: davelms
-twitter_username: davelms
-github_username: davelms
-linkedin_username: davelms
 rss: rss
