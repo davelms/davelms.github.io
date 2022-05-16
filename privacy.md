@@ -10,7 +10,7 @@ Privacy Policy for Leeds Gig Guide, York Gig Guide, Sheffield Gig Guide apps.
 
 **Last Modified: May 15th 2022**
 
-## Scope of thgis policy
+## Scope of this policy
 
 This privacy policy describes the processing of information provided or collected on the sites and applications where this privacy policy is posted.
 
