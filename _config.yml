@@ -1,6 +1,9 @@
 theme: minima
 title: Dave Sugden
-description: DevOps & Football. LUFC & Scarborough. <a href="https://davelms.medium.com">Write tech</a>, run <a href="https://twitter.com/leedsmusicscene">@leedsmusicscene</a> and <a href="https://twitter.com/leedsgigguide">@leedsgigguide]</a>
+description: DevOps & Football. LUFC & Scarborough. Write tech, run @leedsmusicscene and @leedsgigguide.
+author:
+  name: Dave Sugden
+  email: "davelms@gmail.com"
 minima:
   social_links:
     twitter: davelms
